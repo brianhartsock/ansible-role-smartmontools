@@ -1,0 +1,19 @@
+galaxy_info:
+  role_name: smartmontools
+  author: Brian Hartsock
+  description: Ansible role for installing and manage SMART monitoring tools.
+  license: MIT
+
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - bionic
+
+  galaxy_tags:
+    - ubuntu
+    - smart
+    - smartmontools
+
+dependencies: []
