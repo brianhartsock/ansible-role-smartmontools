@@ -5,4 +5,3 @@
     - name: Update apt cache.
       ansible.builtin.package:
         update_cache: true
-
