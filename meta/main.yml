@@ -13,10 +13,9 @@ galaxy_info:
     - bionic
     - focal
     - jammy
-
+    - noble
   galaxy_tags:
     - ubuntu
     - smart
     - smartmontools
-
 dependencies: []
