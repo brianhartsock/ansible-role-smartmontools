@@ -6,12 +6,17 @@ A simple role to install and configure smartmontools.
 Requirements
 ------------
 
-None
+This role has been tested on Ubuntu 20.04, 22.04, and 24.04.
 
 Role Variables
 --------------
 
-TBD
+The following variables are defined in defaults/main.yml and can be used to further configure smartd service.
+
+```yaml
+smartmon_configuration_lines:
+  - DEVICESCAN ... whatever configuration you want here
+```
 
 Dependencies
 ------------
