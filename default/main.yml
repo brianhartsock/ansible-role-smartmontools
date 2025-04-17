@@ -1,4 +1,0 @@
----
-- smartmontools_configuration_lines:
-    # Default configured with Ubuntu 24.04
-    - DEVICESCAN -d removable -n standby -m root -M exec /usr/share/smartmontools/smartd-runner
