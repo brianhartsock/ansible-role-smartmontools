@@ -7,7 +7,7 @@ A simple role to install and configure smartmontools, including smartd.
 Requirements
 ------------
 
-This role has been tested on Ubuntu 20.04, 22.04, and 24.04.
+This role has been tested on Ubuntu 22.04, and 24.04.
 
 Role Variables
 --------------
