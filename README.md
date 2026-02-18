@@ -15,7 +15,7 @@ Role Variables
 The following variables are defined in `defaults/main.yml` and can be used to further configure smartd service.
 
 ```yaml
-smartmon_configuration_lines:
+smartmontools_configuration_lines:
   - DEVICESCAN ... whatever configuration you want here
 ```
 
